@@ -1,2 +1,3 @@
 # Hola-Mundo
-Primer código
+Primer código en GitHub.
+Veamos que pasa.
